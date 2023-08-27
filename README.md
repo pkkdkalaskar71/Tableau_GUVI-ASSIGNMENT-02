@@ -34,5 +34,4 @@ Once the reports are complete, publish them to tableau server, where users can a
 # Results:
 In conclusion, analyzing Amazon Prime Video using Tableau can provide valuable insights into the streaming service's content library, user engagement, and viewer preferences. By visualizing data related to genres, viewership patterns, user behavior, content performance, and regional preferences, actionable recommendations can be derived to optimize content selection, enhance user experience, and improve viewer engagement.
 
-# DATASET LINK:
-https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+.
