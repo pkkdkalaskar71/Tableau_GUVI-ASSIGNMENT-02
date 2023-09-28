@@ -22,11 +22,17 @@ Use Tableau's drag-and-drop interface to explore the dataset and understand its 
 Create various dashboards to represent the data.
 Utilize filters, grouping, and aggregation functions to gain insights and identify patterns within the data.
 Analyse the following
+
 a) top 15 ratings given the data.
+
 b) Shows by type.
+
 c) Top 10 genres.
+
 d) Total shows by country.
+
 e) Shows by release year and type.
+
 ## 4) Export as packaged workbook
 ## 5) Publish the reports:
 Once the reports are complete, publish them to tableau server, where users can access them via web.
